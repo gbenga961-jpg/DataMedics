@@ -1,0 +1,5 @@
+id,name,email,notes
+1,Alice,alice@example.com,Verified
+2,Bob,,Needs follow-up
+3,Charlie,   ,Pending
+4,Dana,dana@example.com,

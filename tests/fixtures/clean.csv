@@ -1,0 +1,5 @@
+id,product,price,active
+101,Standard Widget,29.99,true
+102,Premium Gadget,49.50,true
+103,Basic Cable,9.99,false
+104,Pro Monitor,199.00,true

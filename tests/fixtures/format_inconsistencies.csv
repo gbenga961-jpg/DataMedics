@@ -1,0 +1,6 @@
+order_id,order_date,amount,shipped
+ORD-101,2026-01-15,100.50,true
+ORD-102,2026-01-16,250.00,true
+ORD-103,2026-01-17,45.90,false
+ORD-104,2026-01-18,320.10,true
+ORD-105,Jan 19 2026,75.00,true
