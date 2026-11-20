@@ -10,6 +10,7 @@
     "type-check": "tsc --noEmit",
     "test:unit": "vitest run",
     "test:unit:watch": "vitest",
+    "postinstall": "prisma generate",
     "prisma:generate": "prisma generate",
     "prisma:validate": "prisma validate",
     "prisma:format": "prisma format"
